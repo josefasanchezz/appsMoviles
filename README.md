@@ -1,7 +1,7 @@
 # ActivaCorp 🚀 – Gestión móvil de oportunidades y activaciones corporativas
 
 **Caso:** DSY1105_007D · Primera entrega (Evaluación Parcial 2) · Módulo **Oportunidades**
-**Integrantes:** _Nombre Apellido_ · _Nombre Apellido_  **Equipo N°:** _X_  **Trello:** _enlace_
+**Integrantes:** _Vinc Gonzalez_ · _Josefa Sánchez_  **Equipo N°:** _4_  **Trello:** _https://trello.com/invite/b/6ad7bd311aa390e7b917dd9c/ATTIbc468e99a70bd2485546d66366c4110fFE61819E/apps-moviles_
 
 ## Funcionalidades implementadas
 - Búsqueda por texto, filtro por prioridad y eliminación con confirmación.
